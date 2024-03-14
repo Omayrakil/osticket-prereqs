@@ -110,7 +110,7 @@ We will want to enable three extensions from here.
 
 3.) php_opcache.dll
 <p>
-  
+  <img src="https://imgur.com/g6Q9K1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  15.) Once those extensions are enabled in IIS, we want to rename one of the files in our osTicket folder. Go into the file explorer and search for C;\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
